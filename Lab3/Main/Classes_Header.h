@@ -36,4 +36,3 @@ public:
 	void show_d2() { std::cout << "d2 =" << e << std::endl; }
 
 };
-
