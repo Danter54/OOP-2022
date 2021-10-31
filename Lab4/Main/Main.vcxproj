@@ -140,10 +140,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Accesories.cpp" />
+    <ClCompile Include="DataBase.cpp" />
+    <ClCompile Include="Header_Includer.cpp" />
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Accesories.h" />
+    <ClInclude Include="DataBase.h" />
     <ClInclude Include="Header_Includer.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
