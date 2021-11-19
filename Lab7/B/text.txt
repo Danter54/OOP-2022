@@ -1,0 +1,2 @@
+ерегрузка строки fstream ..
+his is enteding string  то ввод строки
