@@ -18,7 +18,7 @@ std::ofstream& operator<<(std::ofstream& out, STR const& curr)
 		}
 	}
 
-	out <<"" << nonupper_s;
+	out << "" << nonupper_s;
 
 	return out;
 }
