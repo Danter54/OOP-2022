@@ -35,11 +35,8 @@ int main() {
 		obj[i].write_in_file();
 	}
 
-	
-	
-
-
-
+	delete[]obj;
+	delete[]mas;
 
 	return 0;
 }
